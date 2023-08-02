@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-Here are some ideas to get you started:
 - I have a bachelor's degree in computer science (3 years), currently finishing 4th year. 
 - I’m currently working at Develabs as a software engineer. 
 - I'm always working on side projects and enhancing my skillset. 
