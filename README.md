@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-- I have a bachelor's degree in computer science (3 years), currently finishing 4th year. 
-- I’m currently working at Develabs as a software engineer. 
+- I have a bachelor's degree in computer science. 
+- I’m currently working at ElevateBits as a software engineer. 
 - I'm always working on side projects and enhancing my skillset. 
 
 ### Languages I use
